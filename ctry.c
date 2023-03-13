@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-printf("changes by pranit");
+printf("more changes by pranit");
 return 0;
 }
